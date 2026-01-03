@@ -52,8 +52,6 @@ var box_mesh : BoxMesh
 var SHADER_MATERIAL : ShaderMaterial
 
 func _ready():
-	
-	
 	SHADER_MATERIAL = preload(
 		"res://addons/raymarched_mountains/src/shaders/Terrain.tres"
 	).duplicate()
@@ -62,8 +60,9 @@ func _ready():
 
 func set_material():
 	self.material_override = SHADER_MATERIAL
-	Heightmap = preload("res://addons/raymarched_mountains/src/Textures/Heightmap.tres").duplicate_deep()
-	FogGradient = preload("res://addons/raymarched_mountains/src/Textures/Gradient.tres").duplicate_deep()
+	if Engine.is_editor_hint():
+		Heightmap = preload("res://addons/raymarched_mountains/src/Textures/Heightmap.tres").duplicate_deep()
+		FogGradient = preload("res://addons/raymarched_mountains/src/Textures/Gradient.tres").duplicate_deep()
 	
 	material_override.set_shader_parameter("noise", Heightmap)
 	material_override.set_shader_parameter("fogGradient", FogGradient)
